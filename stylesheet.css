@@ -1,0 +1,43 @@
+.intro-img {
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name-h1, .about-h3 {
+    text-align: center;
+    display: block;
+}
+
+.description-p {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.details-div {
+    border: 1px dotted rgb(16, 20, 20);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.listwrapper-ul {
+    margin-left: 30px;
+    margin-right: 60px;
+
+}
+
+.listitem-li {
+    list-style-image:url('google-icon.png');
+    text-align: justify;
+    margin-bottom: 16px;
+}
+
+.footernote-p {
+    text-align: center;
+    display: block;
+}
