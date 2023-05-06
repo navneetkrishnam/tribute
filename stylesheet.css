@@ -5,9 +5,19 @@
     margin-right: auto;
 }
 
-.name-h1, .about-h3 {
+.name-h1 {
     text-align: center;
     display: block;
+    text-transform: uppercase;
+}
+
+.about-h3 {
+    text-align: center;
+    display: block;
+    border-bottom: 1px solid black;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 25px;
 }
 
 .description-p {
@@ -18,11 +28,12 @@
 }
 
 .details-div {
-    border: 1px dotted rgb(16, 20, 20);
+    border: 1px solid rgb(16, 20, 20);
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 50px;
     margin-bottom: 50px;
+    box-shadow: 5px 5px 0px 0px black;
 }
 
 .listwrapper-ul {
